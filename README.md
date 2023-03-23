@@ -10,22 +10,23 @@ It utlises Express.js API which uses Sequelize to interact with a MySQL database
 ![Badge](https://img.shields.io/badge/license-MITLicense-brightorange)(https://choosealicense.com/licenses/mit/)
 You can access more badges and their purposes at [shields.io](https://shields.io)git
 ## Table of Contents
-  * [Installation](#installation)
   * [Demo](#demo)  
   * [License](#license)
   * [Contribution](#contribution)  
   * [Questions](#questions)  
-## Installation
-
- _Follow these steps to properly install this application:_
-This application requires Node.js, Inquirer, console.table and mysql2. To start application run npm start or node server.js.
 
 ## Demo
+
+_Run following commands get the application started:_
+
+
 npm i
 
 npm run seed
 
 npm start
+
+
 
 
   [Walkthrough Video](https://www.loom.com/embed/459bfdad88d24bab829aab44c604521c)
@@ -46,7 +47,7 @@ _This application has the MIT License._
   
 ## Contribution
 
-Link to the developed application: 
+Link to the developed application: (https://github.com/junaidmsm/E-commerce-Back-End) 
 
 
 ## Questions
