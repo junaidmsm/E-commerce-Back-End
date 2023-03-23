@@ -26,7 +26,7 @@ This application requires Node.js, Inquirer, console.table and mysql2. To start 
 
 
 
-  [Walkthrough Video]()
+  [Walkthrough Video](https://www.loom.com/embed/459bfdad88d24bab829aab44c604521c)
 
 
 
