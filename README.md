@@ -9,27 +9,33 @@ It utlises Express.js API which uses Sequelize to interact with a MySQL database
 
 ![Badge](https://img.shields.io/badge/license-MITLicense-brightorange)(https://choosealicense.com/licenses/mit/)
 You can access more badges and their purposes at [shields.io](https://shields.io)git
+
+
 ## Table of Contents
-  * [Demo](#demo)  
+  * [Demo](#demo)
+  * [Walkthrough videos](#Walkthroughvideos) 
   * [License](#license)
   * [Contribution](#contribution)  
   * [Questions](#questions)  
 
 ## Demo
 
-_Run following commands get the application started:_
+_Run these commands to get the application started:_
 
-
-npm i
 
 npm run seed
 
 npm start
 
 
+## Walkthrough Videos
+
+_Following videos demonstrate the intended functionality of the application:_
 
 
-  [Walkthrough Video](https://www.loom.com/embed/459bfdad88d24bab829aab44c604521c)
+
+
+  [Starting the application](https://www.loom.com/embed/459bfdad88d24bab829aab44c604521c)
 
   [GET routes to all categories](https://www.loom.com/embed/798d23fd436d4e8a9e6742b41732fb9c)
 
